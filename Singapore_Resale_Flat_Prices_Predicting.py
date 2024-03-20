@@ -28,7 +28,7 @@ storey_range_options = ['10 TO 12', '04 TO 06', '07 TO 09', '01 TO 03', '13 TO 1
 
 
 # Load the saved model
-pipeline = joblib.load(r"C:\Users\MIMMIM\Desktop\ML\Practice GUVI Capstone\Practice Project 1\resale_price_prediction_xgboost.joblib")
+pipeline = joblib.load("resale_price_prediction_xgboost.joblib")
                        
 
 # Streamlit app title
