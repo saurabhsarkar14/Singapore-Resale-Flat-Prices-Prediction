@@ -37,6 +37,7 @@ Decision Trees are utilized to model resale prices based on key features. Model 
 K-Nearest Neighbours is employed to predict resale prices based on the values of its k-nearest neighbors. Model evaluation metrics remain consistent across models.
 
 **XGBoost**
-XGBoost is employed for predicting resale flat prices. XGBoost is an ensemble learning algorithm that has proven effective in various machine learning tasks, providing high performance and efficiency.By including XGBoost in the model selection, the project aims to leverage its powerful gradient boosting capabilities to enhance the accuracy and predictive performance of the resale price prediction model.
+XGBoost is employed for predicting resale flat prices. XGBoost is an ensemble learning algorithm that has proven effective in various machine learning tasks, providing high performance and efficiency. By including XGBoost in the model selection, the project aims to leverage its powerful gradient boosting capabilities to enhance the accuracy and predictive performance of the resale price prediction model.
 
 ## Deploying on Streamlit Cloud
+The predictive model is now accessible via a Streamlit application hosted at the following link: https://singapore-resale-flat-prices-predicting.streamlit.app/
